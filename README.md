@@ -14,12 +14,10 @@ Live URL (once published): **https://v1k1ng316.github.io**
 | `404.html` | Custom "page not found" page |
 | `.nojekyll` | Tells GitHub Pages to serve files as-is (skip Jekyll) |
 
-No build step. It's plain HTML/CSS/JS — GitHub Pages just serves the files.
+No build step. It's plain HTML/CSS/JS GitHub Pages just serves the files.
 
 ## Publish it (one-time setup)
 
-Because the repo is named `V1K1NG316.github.io` (matches your username),
-GitHub Pages treats it as your **user site** and publishes automatically.
 
 ```bash
 # From inside this directory:
